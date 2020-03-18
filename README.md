@@ -7,28 +7,32 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
 
 ## National:
 
-**Information:**
-  - [cdc.gov](https://www.cdc.gov/coronavirus/2019-ncov/index.html) - Information about the Coronavirus provided by the CDC
-  - [isitcanceledyet.com](https://www.isitcanceledyet.com/) - List of National events and whether they are cancelled, postponed, or moved online.
-  - [Community Tech Slack Channels](https://github.com/ladyleet/tech-community-slacks) - For those in the tech community, lists of slack channels by region.
-
 **Entertainment &amp; Digital Events:**
  - [Netflix Party](https://www.netflixparty.com) - a Chrome extension for watching Netflix remotely with friends
  - [NPR Virtual Concerts list](https://www.npr.org/2020/03/17/816504058/a-list-of-live-virtual-concerts-to-watch-during-the-coronavirus-shutdown) - NPR Music compiled a list of live audio and video streams from around the world, categorized by date and genre
 - [Unconference](http://sparkbox-unconference.eventbrite.com/) - a free, online conference covering accessibility, design, UX, and development topics for digital studios and teams.
 
+**Information:**
+  - [cdc.gov](https://www.cdc.gov/coronavirus/2019-ncov/index.html) - Information about the Coronavirus provided by the CDC
+  - [isitcanceledyet.com](https://www.isitcanceledyet.com/) - List of National events and whether they are cancelled, postponed, or moved online.
+  - [Community Tech Slack Channels](https://github.com/ladyleet/tech-community-slacks) - For those in the tech community, lists of slack channels by region.
+
 ## By state:
 
-### Virginia
+- [Virginia](states/virginia.md)
 
-**Virtual Groups &amp; Communities:**
-- [Augusta County/Staunton/Waynesboro Caremongering FB Group](https://www.facebook.com/groups/546082846026075/) - FB Group to help each other during the COVID-19 pandemic.
-- [Harrisonburg VA services in times of need FB Group](https://www.facebook.com/groups/2351227165169293/)
 
-**Assistance Request:**
-- [Shenandoah Mutual Aid - Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe4fJopOY18TF7oU8FIuePijNgiao7Aqg9Dlc2AeVjfiX1t_g/viewform?fbclid=IwAR09aRZ-D25Apq9gbMywakawGZKaTJnkXF1NTsDHluCkbnY4aypOCJxTbkQ) - Shenandoah Mutual Aid serves the people of the Shenandoah Valley by connecting resources to those who need it most.
+## How to contribute
 
-**General Information:**
+1. Fork this branch
+1. Add your information to the appropriate state, or to "national" section
+  -  If your state isn't included yet, create a {your_state}.md file in the states director, link to it in the state list, and remove it from the "States that still need info:" list.
+3. Submit a Pull Request.
+1. If you are unfamiliar with git, you can email ricardo@seesparkbox.com with your information to be added.
+
+**Rules**:
+- everything must be respectful and appropriate for all ages
+- as best you can, keep things in alphabetical order
 
 ## States that still need info:
 
