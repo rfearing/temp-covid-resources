@@ -40,6 +40,7 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
 
 **Assistance Request:**
 - [Shenandoah Mutual Aid - Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe4fJopOY18TF7oU8FIuePijNgiao7Aqg9Dlc2AeVjfiX1t_g/viewform?fbclid=IwAR09aRZ-D25Apq9gbMywakawGZKaTJnkXF1NTsDHluCkbnY4aypOCJxTbkQ) - Shenandoah Mutual Aid serves the people of the Shenandoah Valley by connecting resources to those who need it most.
+- [Charlottesville Area Health Care PPE Supplies Donation Form](https://docs.google.com/forms/d/e/1FAIpQLScIXbfWmGBkP-bKUB8_ZOrYDfVCf_I1mCIkh3q9IRB5qUBtRA/viewform?usp=sf_link) - Smaller health care providers in the community are lacking in stocks of personal protective equipment (PPE). If you have any masks, goggles, gloves, gowns, etc) please donate to help keep our health care providers safe!
 
 ## How to contribute
 
