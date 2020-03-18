@@ -16,6 +16,8 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
 
 **Information:**
   - [cdc.gov](https://www.cdc.gov/coronavirus/2019-ncov/index.html) - Information about the Coronavirus provided by the CDC
+  - [The Coronavirus Tech Handbook](https://coronavirustechhandbook.com/) - a crowdsourced resource for technologists building things related to the coronavirus outbreak
+
   - [isitcanceledyet.com](https://www.isitcanceledyet.com/) - List of National events and whether they are cancelled, postponed, or moved online.
   - [Community Tech Slack Channels](https://github.com/ladyleet/tech-community-slacks) - For those in the tech community, lists of slack channels by region.
 
