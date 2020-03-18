@@ -10,6 +10,7 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
 **Entertainment &amp; Digital Events:**
  - [Netflix Party](https://www.netflixparty.com) - a Chrome extension for watching Netflix remotely with friends
  - [NPR Virtual Concerts list](https://www.npr.org/2020/03/17/816504058/a-list-of-live-virtual-concerts-to-watch-during-the-coronavirus-shutdown) - NPR Music compiled a list of live audio and video streams from around the world, categorized by date and genre
+- [Tech Conferences Now Free/Online Due to COVID-19](https://docs.google.com/spreadsheets/d/1IKXAcDoYnWNpuFaDYkn_aplDZ5fRI0bJNWah0rGFO5E/edit#gid=0) - Google Doc
 - [Unconference](http://sparkbox-unconference.eventbrite.com/) - a free, online conference covering accessibility, design, UX, and development topics for digital studios and teams.
 
 **Information:**
