@@ -18,6 +18,13 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
   - [isitcanceledyet.com](https://www.isitcanceledyet.com/) - List of National events and whether they are cancelled, postponed, or moved online.
   - [Community Tech Slack Channels](https://github.com/ladyleet/tech-community-slacks) - For those in the tech community, lists of slack channels by region.
 
+  **Free at home Fitness:**
+  - [BJJ Self Trainging Drills](https://bjjfanatics.com/products/self-master-solo-bjj-training-drills-by-john-danaher)
+  - [Core Yoga](https://www.corepoweryogaondemand.com/keep-up-your-practice)
+  - [CrossFit at Home](https://www.crossfit.com/at-home)
+  - [Groker Yoga](https://grokker.com/individuals)
+  - [Planet Fitness](https://www.facebook.com/planetfitness/videos/1058274961238168)
+
 ## By state:
 
 - [Virginia](states/virginia.md)
