@@ -22,6 +22,7 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
   - [BJJ Self Trainging Drills](https://bjjfanatics.com/products/self-master-solo-bjj-training-drills-by-john-danaher)
   - [Core Yoga](https://www.corepoweryogaondemand.com/keep-up-your-practice)
   - [CrossFit at Home](https://www.crossfit.com/at-home)
+  - [Daily Home Workouts](https://www.facebook.com/harrisonburgmmai/) - from Harrisonburg MMAI
   - [Groker Yoga](https://grokker.com/individuals)
   - [Planet Fitness](https://www.facebook.com/planetfitness/videos/1058274961238168)
 
