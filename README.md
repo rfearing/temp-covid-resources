@@ -37,7 +37,7 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
 ### ![](flags/south-carolina.gif) South Carolina
 - [SC COVID-19 Data](https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19)
 - [SC Department of Employment and Workforce (DEW) COVID-19 Resource Hub](https://dew.sc.gov/covid-hub)
-- [South Carolina Department of Health and Environmental Control (DHEC)](https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19)
+- [SC Department of Health and Environmental Control (DHEC)](https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19)
 - [SC Public Schools Information](https://ed.sc.gov/newsroom/covid-19-coronavirus-and-south-carolina-schools/)
 
 ### ![](flags/virginia.gif) Virginia
