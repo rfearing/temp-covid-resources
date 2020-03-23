@@ -36,14 +36,15 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
 
 ### ![](flags/virginia.gif) Virginia
 
+**Assistance Request:**
+- [Charlottesville Area Health Care PPE Supplies Donation Form](https://docs.google.com/forms/d/e/1FAIpQLScIXbfWmGBkP-bKUB8_ZOrYDfVCf_I1mCIkh3q9IRB5qUBtRA/viewform?usp=sf_link) - Smaller health care providers in the community are lacking in stocks of personal protective equipment (PPE). If you have any masks, goggles, gloves, gowns, etc) please donate to help keep our health care providers safe!
+- [Feed the Frontline](https://charlottesville29.com/2020/03/23/feed-the-frontline-thank-our-nurses-with-a-free-restaurant-meal/) - Local restaurant gift card drive for cville nurses.
+- [Shenandoah Mutual Aid - Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe4fJopOY18TF7oU8FIuePijNgiao7Aqg9Dlc2AeVjfiX1t_g/viewform?fbclid=IwAR09aRZ-D25Apq9gbMywakawGZKaTJnkXF1NTsDHluCkbnY4aypOCJxTbkQ) - Shenandoah Mutual Aid serves the people of the Shenandoah Valley by connecting resources to those who need it most.
+
 **Virtual Groups &amp; Communities:**
 - [Augusta County/Staunton/Waynesboro Caremongering](https://www.facebook.com/groups/546082846026075/) - FaceBook Group
 - [Harrisonburg VA services in times of need](https://www.facebook.com/groups/2351227165169293/) - FaceBook Group
 - [Rockingham County VA COVID-19 Crisis Support](https://www.facebook.com/groups/680452289365828) - FaceBook Group
-
-**Assistance Request:**
-- [Charlottesville Area Health Care PPE Supplies Donation Form](https://docs.google.com/forms/d/e/1FAIpQLScIXbfWmGBkP-bKUB8_ZOrYDfVCf_I1mCIkh3q9IRB5qUBtRA/viewform?usp=sf_link) - Smaller health care providers in the community are lacking in stocks of personal protective equipment (PPE). If you have any masks, goggles, gloves, gowns, etc) please donate to help keep our health care providers safe!
-- [Shenandoah Mutual Aid - Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe4fJopOY18TF7oU8FIuePijNgiao7Aqg9Dlc2AeVjfiX1t_g/viewform?fbclid=IwAR09aRZ-D25Apq9gbMywakawGZKaTJnkXF1NTsDHluCkbnY4aypOCJxTbkQ) - Shenandoah Mutual Aid serves the people of the Shenandoah Valley by connecting resources to those who need it most.
 
 ## How to contribute
 
