@@ -15,11 +15,11 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
 - [Virtual Museum Tours](http://mcn.edu/a-guide-to-virtual-museum-resources/)
 
 **Information:**
-  - [cdc.gov](https://www.cdc.gov/coronavirus/2019-ncov/index.html) - Information about the Coronavirus provided by the CDC
+  - [cdc.gov](https://www.cdc.gov/coronavirus/2019-ncov/index.html) - Information about the Coronavirus provided by the **CDC**
+  - [Connect with your Local Healthcare Facility](https://docs.google.com/spreadsheets/d/1txEanDkIrJ5GNfSk-zlXkTlB-bQPNRN_Y69qEwmdme8/htmlview?sle=true&fbclid=IwAR1Tq-1SgN8Mn2b5FX4QAdwSV3RIIRL37zV8CKSZBaFh_25tgHcRDykolPQ) - **Where to Donate**
   - [The Coronavirus Tech Handbook](https://coronavirustechhandbook.com/) - a crowdsourced resource for technologists building things related to the coronavirus outbreak
-
-  - [isitcanceledyet.com](https://www.isitcanceledyet.com/) - List of National events and whether they are cancelled, postponed, or moved online.
   - [Community Tech Slack Channels](https://github.com/ladyleet/tech-community-slacks) - For those in the tech community, lists of slack channels by region.
+  - [isitcanceledyet.com](https://www.isitcanceledyet.com/) - List of National events and whether they are cancelled, postponed, or moved online.
 
   **Free at home Fitness:**
   - [BJJ Self Trainging Drills](https://bjjfanatics.com/products/self-master-solo-bjj-training-drills-by-john-danaher)
@@ -42,8 +42,8 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
 - [Rockingham County VA COVID-19 Crisis Support](https://www.facebook.com/groups/680452289365828) - FaceBook Group
 
 **Assistance Request:**
-- [Shenandoah Mutual Aid - Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe4fJopOY18TF7oU8FIuePijNgiao7Aqg9Dlc2AeVjfiX1t_g/viewform?fbclid=IwAR09aRZ-D25Apq9gbMywakawGZKaTJnkXF1NTsDHluCkbnY4aypOCJxTbkQ) - Shenandoah Mutual Aid serves the people of the Shenandoah Valley by connecting resources to those who need it most.
 - [Charlottesville Area Health Care PPE Supplies Donation Form](https://docs.google.com/forms/d/e/1FAIpQLScIXbfWmGBkP-bKUB8_ZOrYDfVCf_I1mCIkh3q9IRB5qUBtRA/viewform?usp=sf_link) - Smaller health care providers in the community are lacking in stocks of personal protective equipment (PPE). If you have any masks, goggles, gloves, gowns, etc) please donate to help keep our health care providers safe!
+- [Shenandoah Mutual Aid - Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe4fJopOY18TF7oU8FIuePijNgiao7Aqg9Dlc2AeVjfiX1t_g/viewform?fbclid=IwAR09aRZ-D25Apq9gbMywakawGZKaTJnkXF1NTsDHluCkbnY4aypOCJxTbkQ) - Shenandoah Mutual Aid serves the people of the Shenandoah Valley by connecting resources to those who need it most.
 
 ## How to contribute
 
