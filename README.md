@@ -22,8 +22,8 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
   - [COVID-19 Facts and Symptom Tracking Sheet](Information_and_14-day_Monitoring_Sheet.pdf)
   - [isitcanceledyet.com](https://www.isitcanceledyet.com/)  - List of National events and whether they are cancelled, postponed, or moved online.
 
-**Home Fitness:**
-  - [BJJ Self Trainging Drills](https://bjjfanatics.com/products/self-master-solo-bjj-training-drills-by-john-danaher)
+**Free Home Fitness:**
+  - [BJJ Self Training Drills](https://bjjfanatics.com/products/self-master-solo-bjj-training-drills-by-john-danaher)
   - [Core Yoga](https://www.corepoweryogaondemand.com/keep-up-your-practice)
   - [CrossFit at Home](https://www.crossfit.com/at-home)
   - [Daily Home Workouts](https://www.facebook.com/harrisonburgmmai/) - from Harrisonburg MMAI
