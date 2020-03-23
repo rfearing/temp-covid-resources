@@ -20,7 +20,7 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
   - [The Coronavirus Tech Handbook](https://coronavirustechhandbook.com/) - a crowdsourced resource for technologists building things related to the coronavirus outbreak
   - [Community Tech Slack Channels](https://github.com/ladyleet/tech-community-slacks) - For those in the tech community, lists of slack channels by region.
   - [isitcanceledyet.com](https://www.isitcanceledyet.com/) - List of National events and whether they are cancelled, postponed, or moved online.
-
+  -[COVID-19 Facts and Symptom Tracking Sheet](master/Information_and_14-day_Monitoring_Sheet.pdf)
   **Free at home Fitness:**
   - [BJJ Self Trainging Drills](https://bjjfanatics.com/products/self-master-solo-bjj-training-drills-by-john-danaher)
   - [Core Yoga](https://www.corepoweryogaondemand.com/keep-up-your-practice)
