@@ -19,9 +19,10 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
   - [Connect with your Local Healthcare Facility](https://docs.google.com/spreadsheets/d/1txEanDkIrJ5GNfSk-zlXkTlB-bQPNRN_Y69qEwmdme8/htmlview?sle=true&fbclid=IwAR1Tq-1SgN8Mn2b5FX4QAdwSV3RIIRL37zV8CKSZBaFh_25tgHcRDykolPQ) - **Where to Donate**
   - [The Coronavirus Tech Handbook](https://coronavirustechhandbook.com/) - a crowdsourced resource for technologists building things related to the coronavirus outbreak
   - [Community Tech Slack Channels](https://github.com/ladyleet/tech-community-slacks) - For those in the tech community, lists of slack channels by region.
-  - [isitcanceledyet.com](https://www.isitcanceledyet.com/) - List of National events and whether they are cancelled, postponed, or moved online.
+  - [COVID-19 Facts and Symptom Tracking Sheet](Information_and_14-day_Monitoring_Sheet.pdf)  
+  - [isitcanceledyet.com](https://www.isitcanceledyet.com/)  - List of National events and whether they are cancelled, postponed, or moved online.
 
-  **Free at home Fitness:**
+- **Free at home Fitness:**
   - [BJJ Self Trainging Drills](https://bjjfanatics.com/products/self-master-solo-bjj-training-drills-by-john-danaher)
   - [Core Yoga](https://www.corepoweryogaondemand.com/keep-up-your-practice)
   - [CrossFit at Home](https://www.crossfit.com/at-home)
@@ -33,6 +34,12 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
 
 ### ![](flags/ohio.gif) Ohio
 - [Stay At Home Order Frequently Asked Questions](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/stay-at-home-information/stay-at-home-order-frequently-asked-questions)
+
+### ![](flags/south-carolina.gif) South Carolina
+- [SC COVID-19 Data](https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19) - Live updates of current confirmed cases of COVID-19 in the state of South Carolina, by county. 
+- [SC Department of Employment and Workforce (DEW) COVID-19 Resource Hub](https://dew.sc.gov/covid-hub) - Information for employers and employees including business guidance and how to apply for unemployment. 
+- [SC Department of Health and Environmental Control (DHEC)](https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19) - Leading resource for information and guidelines for the state of South Carolina, including outreach and educational materials. 
+- [SC Public Schools Information](https://ed.sc.gov/newsroom/covid-19-coronavirus-and-south-carolina-schools/) - Information for parents including school food sites, telehealth options, and resources in Spanish, English, and Simplified Chinese. 
 
 ### ![](flags/virginia.gif) Virginia
 
