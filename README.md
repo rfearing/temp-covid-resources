@@ -34,6 +34,11 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
 ### ![](flags/ohio.gif) Ohio
 - [Stay At Home Order Frequently Asked Questions](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/stay-at-home-information/stay-at-home-order-frequently-asked-questions)
 
+### ![](flags/sc.gif) South Carolina
+- [South Carolina Department of Health and Environmental Control](https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19)
+- [SC COVID-19 Data](https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19)
+- [SC Public Schools Information](https://ed.sc.gov/newsroom/covid-19-coronavirus-and-south-carolina-schools/)
+
 ### ![](flags/virginia.gif) Virginia
 
 **Virtual Groups &amp; Communities:**
