@@ -15,7 +15,8 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
 - [Virtual Museum Tours](http://mcn.edu/a-guide-to-virtual-museum-resources/)
 
 **Information:**
-  - [cdc.gov](https://www.cdc.gov/coronavirus/2019-ncov/index.html) - Information about the Coronavirus provided by the **CDC**
+  - [cdc.gov](https://www.cdc.gov/coronavirus/2019-ncov/index.html) - <u>Information about the Coronavirus provided by the **CDC**</u>
+  - [Awesome Coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - Useful projects and resources for COVID-19
   - [Connect with your Local Healthcare Facility](https://docs.google.com/spreadsheets/d/1txEanDkIrJ5GNfSk-zlXkTlB-bQPNRN_Y69qEwmdme8/htmlview?sle=true&fbclid=IwAR1Tq-1SgN8Mn2b5FX4QAdwSV3RIIRL37zV8CKSZBaFh_25tgHcRDykolPQ) - **Where to Donate**
   - [The Coronavirus Tech Handbook](https://coronavirustechhandbook.com/) - a crowdsourced resource for technologists building things related to the coronavirus outbreak
   - [Community Tech Slack Channels](https://github.com/ladyleet/tech-community-slacks) - For those in the tech community, lists of slack channels by region.
@@ -26,7 +27,7 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
   - [BJJ Self Training Drills](https://bjjfanatics.com/products/self-master-solo-bjj-training-drills-by-john-danaher)
   - [Core Yoga](https://www.corepoweryogaondemand.com/keep-up-your-practice)
   - [CrossFit at Home](https://www.crossfit.com/at-home)
-  - [Daily Home Workouts](https://www.facebook.com/harrisonburgmmai/) - from Harrisonburg MMAI
+  - [MMAI - Daily Home Workouts](https://www.facebook.com/harrisonburgmmai/)
   - [Groker Yoga](https://grokker.com/individuals)
   - [Planet Fitness](https://www.facebook.com/planetfitness/videos/1058274961238168)
 
