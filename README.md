@@ -1,9 +1,8 @@
 # List of resources for local communities during the Coronavirus pandemic
 
-The idea here is if you know of a resource that might be helpful to during the coronavirus pandemic, you can easily share it here, and then share this resource.
+The goal of this list is to share any resources that might be helpful to during the coronavirus pandemic, particularly those local to your community.
 
-Examples: a local community slack, virtual conferences or concerts, food/medicine resources for those in need, important information about local government regulations.
-
+You can easily contribute resources ([instructions](#how-to-contribute)), and share this list to any of your communities.
 
 ## 🇺🇲National / 🌎Global:
 
@@ -14,14 +13,17 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
 - [Unconference](http://sparkbox-unconference.eventbrite.com/) - a free, online conference covering accessibility, design, UX, and development topics for digital studios and teams.
 - [Virtual Museum Tours](http://mcn.edu/a-guide-to-virtual-museum-resources/)
 
-**Information:**
+**General Information:**
   - [cdc.gov](https://www.cdc.gov/coronavirus/2019-ncov/index.html) - <u>Information about the Coronavirus provided by the **CDC**</u>
   - [Awesome Coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - Useful projects and resources for COVID-19
-  - [Connect with your Local Healthcare Facility](https://docs.google.com/spreadsheets/d/1txEanDkIrJ5GNfSk-zlXkTlB-bQPNRN_Y69qEwmdme8/htmlview?sle=true&fbclid=IwAR1Tq-1SgN8Mn2b5FX4QAdwSV3RIIRL37zV8CKSZBaFh_25tgHcRDykolPQ) - **Where to Donate**
   - [The Coronavirus Tech Handbook](https://coronavirustechhandbook.com/) - a crowdsourced resource for technologists building things related to the coronavirus outbreak
   - [Community Tech Slack Channels](https://github.com/ladyleet/tech-community-slacks) - For those in the tech community, lists of slack channels by region.
   - [COVID-19 Facts and Symptom Tracking Sheet](Information_and_14-day_Monitoring_Sheet.pdf)
-  - [isitcanceledyet.com](https://www.isitcanceledyet.com/)  - List of National events and whether they are cancelled, postponed, or moved online.
+
+**Financial Relief Information:**
+  - [Connect with your Local Healthcare Facility](https://docs.google.com/spreadsheets/d/1txEanDkIrJ5GNfSk-zlXkTlB-bQPNRN_Y69qEwmdme8/htmlview?sle=true&fbclid=IwAR1Tq-1SgN8Mn2b5FX4QAdwSV3RIIRL37zV8CKSZBaFh_25tgHcRDykolPQ) - **Where to Donate**
+- [Coronavirus Aid, Relief, and Economic Security (CARES) Act](https://drive.google.com/file/d/1U0eJmR_IDQrblnMX1jeYkldLJJlQRkbG/view) - What we know about the CARES Act. From Industrious
+- [Economic Disaster Loan Program](https://www.sba.gov/funding-programs/disaster-assistance)
 
 **Free Home Fitness:**
   - [BJJ Self Training Drills](https://bjjfanatics.com/products/self-master-solo-bjj-training-drills-by-john-danaher)
@@ -44,10 +46,12 @@ Examples: a local community slack, virtual conferences or concerts, food/medicin
 
 ### ![Virginia State Flag](flags/virginia.gif) Virginia
 
-**Assistance Request:**
+**Assistance / Relief:**
 - [Charlottesville Area Health Care PPE Supplies Donation Form](https://docs.google.com/forms/d/e/1FAIpQLScIXbfWmGBkP-bKUB8_ZOrYDfVCf_I1mCIkh3q9IRB5qUBtRA/viewform?usp=sf_link) - Smaller health care providers in the community are lacking in stocks of personal protective equipment (PPE). If you have any masks, goggles, gloves, gowns, etc) please donate to help keep our health care providers safe!
+- [Emergency Layoff Aversion Assistance Program](https://workforcecouncil.arlingtonva.us/covid19/) - Alexandria / Arlington Regional Workforce Council
 - [Feed the Frontline](https://charlottesville29.com/2020/03/23/feed-the-frontline-thank-our-nurses-with-a-free-restaurant-meal/) - Local restaurant gift card drive for cville nurses.
 - [Shenandoah Mutual Aid - Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe4fJopOY18TF7oU8FIuePijNgiao7Aqg9Dlc2AeVjfiX1t_g/viewform?fbclid=IwAR09aRZ-D25Apq9gbMywakawGZKaTJnkXF1NTsDHluCkbnY4aypOCJxTbkQ) - Shenandoah Mutual Aid serves the people of the Shenandoah Valley by connecting resources to those who need it most.
+- [Tax Relief](https://www.tax.virginia.gov/news/coronavirus-updates) - State of Virginia
 
 **Virtual Groups &amp; Communities:**
 - [Augusta County/Staunton/Waynesboro Caremongering](https://www.facebook.com/groups/546082846026075/) - Facebook Group
