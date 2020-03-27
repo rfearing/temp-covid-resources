@@ -15,6 +15,7 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
 
 **General Information:**
   - [cdc.gov](https://www.cdc.gov/coronavirus/2019-ncov/index.html) - <u>Information about the Coronavirus provided by the **CDC**</u>
+  - [Apple Covid-19](https://apps.apple.com/us/app/apple-covid-19/id1504132184) - Apple + CDC App
   - [Awesome Coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - Useful projects and resources for COVID-19
   - [The Coronavirus Tech Handbook](https://coronavirustechhandbook.com/) - a crowdsourced resource for technologists building things related to the coronavirus outbreak
   - [Community Tech Slack Channels](https://github.com/ladyleet/tech-community-slacks) - For those in the tech community, lists of slack channels by region.
