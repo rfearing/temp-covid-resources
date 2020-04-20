@@ -16,8 +16,8 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
 **General Information:**
   - [cdc.gov](https://www.cdc.gov/coronavirus/2019-ncov/index.html) - <u>Information about the Coronavirus provided by the **CDC**</u>
   - [Apple Covid-19](https://apps.apple.com/us/app/apple-covid-19/id1504132184) - Apple + CDC App
-  - [Coronavirus Chrome Extension](https://chrome.google.com/webstore/detail/coronavirus-tips-new-tab/konbgoghafhpdebefnmcbbmbgoakjfkp) - A chrome extension to help promote the "Do The Five" W.H.O. guidelines.
   - [Awesome Coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - Useful projects and resources for COVID-19
+  - [Coronavirus Chrome Extension](https://chrome.google.com/webstore/detail/coronavirus-tips-new-tab/konbgoghafhpdebefnmcbbmbgoakjfkp) - A chrome extension to help promote the "Do The Five" W.H.O. guidelines.
   - [The Coronavirus Tech Handbook](https://coronavirustechhandbook.com/) - a crowdsourced resource for technologists building things related to the coronavirus outbreak
   - [Community Tech Slack Channels](https://github.com/ladyleet/tech-community-slacks) - For those in the tech community, lists of slack channels by region.
   - [COVID-19 Facts and Symptom Tracking Sheet](Information_and_14-day_Monitoring_Sheet.pdf)
@@ -26,6 +26,7 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
   - [Connect with your Local Healthcare Facility](https://docs.google.com/spreadsheets/d/1txEanDkIrJ5GNfSk-zlXkTlB-bQPNRN_Y69qEwmdme8/htmlview?sle=true&fbclid=IwAR1Tq-1SgN8Mn2b5FX4QAdwSV3RIIRL37zV8CKSZBaFh_25tgHcRDykolPQ) - **Where to Donate**
 - [Coronavirus Aid, Relief, and Economic Security (CARES) Act](https://drive.google.com/file/d/1U0eJmR_IDQrblnMX1jeYkldLJJlQRkbG/view) - What we know about the CARES Act. From Industrious
 - [Economic Disaster Loan Program](https://www.sba.gov/funding-programs/disaster-assistance)
+- [How to Support Immigrants In the U.S. During the Coronavirus Pandemic](https://www.teenvogue.com/story/how-help-immigrant-communities-coronavirus)
 
 **Free Home Fitness:**
   - [BJJ Self Training Drills](https://bjjfanatics.com/products/self-master-solo-bjj-training-drills-by-john-danaher)
@@ -50,6 +51,7 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
 
 **Assistance / Relief:**
 - [Charlottesville Area Health Care PPE Supplies Donation Form](https://docs.google.com/forms/d/e/1FAIpQLScIXbfWmGBkP-bKUB8_ZOrYDfVCf_I1mCIkh3q9IRB5qUBtRA/viewform?usp=sf_link) - Smaller health care providers in the community are lacking in stocks of personal protective equipment (PPE). If you have any masks, goggles, gloves, gowns, etc) please donate to help keep our health care providers safe!
+- [The Citizen’s local COVID-19 'Giving Guide' (Harrisonburg)](https://hburgcitizen.com/2020/04/09/the-citizens-local-covid-19-giving-guide/)
 - [Emergency Layoff Aversion Assistance Program](https://workforcecouncil.arlingtonva.us/covid19/) - Alexandria / Arlington Regional Workforce Council
 - [Feed the Frontline](https://charlottesville29.com/2020/03/23/feed-the-frontline-thank-our-nurses-with-a-free-restaurant-meal/) - Local restaurant gift card drive for cville nurses.
 - [Sentara Updates - Supply Donations](https://sentaraupdates.com/supply-donations/) - Where and what to donate for Sentara hospital nurses and doctors.
