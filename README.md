@@ -39,6 +39,12 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
 
 ## By state:
 
+### ![Kansas State Flag](flags/kansas.gif) Kansas
+- [Healthcare Providers & Local Health Departments](https://www.coronavirus.kdheks.gov/170/Healthcare-Providers)
+- [How to Protect Yourself & Others](https://www.coronavirus.kdheks.gov/225/How-to-Protect-Yourself-Others)
+- [What to do if You Think You're Sick](https://www.coronavirus.kdheks.gov/224/What-to-do-if-you-think-youre-sick)
+- [Frequently Asked Questions](https://ks-kdhecovid19.civicplus.com/faq.aspx)
+
 ### ![Ohio State Flag](flags/ohio.gif) Ohio
 - [Stay At Home Order Frequently Asked Questions](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/stay-at-home-information/stay-at-home-order-frequently-asked-questions)
 
