@@ -41,6 +41,11 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
 ### ![Ohio State Flag](flags/ohio.gif) Ohio
 - [Stay At Home Order Frequently Asked Questions](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/stay-at-home-information/stay-at-home-order-frequently-asked-questions)
 
+### ![Michigan State Flag](flags/michigan.gif) Michigan
+- [Frequently Asked COVID-19 Questions](https://www.michigan.gov/coronavirus/0,9753,7-406-98810---,00.html?page=1&limit=25&filterCategories=&searchQuery=)
+- [Find a Test Site](https://www.michigan.gov/coronavirus/0,9753,7-406-99891_99912---,00.html)
+- [MI Safe Start Plan](https://www.michigan.gov/coronavirus/0,9753,7-406-100467---,00.html)
+
 ### ![South Carolina State Flag](flags/south-carolina.gif) South Carolina
 - [SC COVID-19 Data](https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19) - Live updates of current confirmed cases of COVID-19 in the state of South Carolina, by county.
 - [SC Department of Employment and Workforce (DEW) COVID-19 Resource Hub](https://dew.sc.gov/covid-hub) - Information for employers and employees including business guidance and how to apply for unemployment.
