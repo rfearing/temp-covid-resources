@@ -22,6 +22,7 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
   - [The Coronavirus Tech Handbook](https://coronavirustechhandbook.com/) - a crowdsourced resource for technologists building things related to the coronavirus outbreak
   - [Community Tech Slack Channels](https://github.com/ladyleet/tech-community-slacks) - For those in the tech community, lists of slack channels by region.
   - [COVID-19 Facts and Symptom Tracking Sheet](Information_and_14-day_Monitoring_Sheet.pdf)
+- [WHO Coronavirus Disease Dashboard](https://covid19.who.int/)
 
 **Financial Relief Information:**
   - [Connect with your Local Healthcare Facility](https://docs.google.com/spreadsheets/d/1txEanDkIrJ5GNfSk-zlXkTlB-bQPNRN_Y69qEwmdme8/htmlview?sle=true&fbclid=IwAR1Tq-1SgN8Mn2b5FX4QAdwSV3RIIRL37zV8CKSZBaFh_25tgHcRDykolPQ) - **Where to Donate**
@@ -33,7 +34,6 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
   - [BJJ Self Training Drills](https://bjjfanatics.com/products/self-master-solo-bjj-training-drills-by-john-danaher)
   - [Core Yoga](https://www.corepoweryogaondemand.com/keep-up-your-practice)
   - [CrossFit at Home](https://www.crossfit.com/at-home)
-  - [MMAI - Daily Home Workouts](https://www.facebook.com/harrisonburgmmai/)
   - [Groker Yoga](https://grokker.com/individuals)
   - [Planet Fitness](https://www.facebook.com/planetfitness/videos/1058274961238168)
 
@@ -74,6 +74,11 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
 - [Preventing Shenandoah Valley Housing Insecurity During COVID-19](https://www.facebook.com/groups/202178274441349/) - Facebook Group
 - [Shenandoah Valley Food Security during COVID-19](https://www.facebook.com/groups/146012133427764/) - Facebook Group
 - [Rockingham County VA COVID-19 Crisis Support](https://www.facebook.com/groups/680452289365828) - Facebook Group
+
+**University Dashboards**
+- [James Madison University](https://www.jmu.edu/stop-the-spread/dashboard.shtml)
+- [Old Dominion University](https://datastudio.google.com/u/1/reporting/51c4bd62-7988-4bc9-a0b0-e19f68486cd9/page/cUufB)
+- [University of Virginia](https://returntogrounds.virginia.edu/covid-tracker)
 
 ## How to contribute
 
