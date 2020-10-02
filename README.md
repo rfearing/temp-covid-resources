@@ -35,6 +35,32 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
   - [MMAI - Daily Home Workouts](https://www.facebook.com/harrisonburgmmai/)
   - [Groker Yoga](https://grokker.com/individuals)
   - [Planet Fitness](https://www.facebook.com/planetfitness/videos/1058274961238168)
+  
+**Here is the list of some useful websites to learn during this pandemic to upskill ourselves:**
+
+- [Harvard](https://online-learning.harvard.edu/catalog)
+- [IBM Cognitive Class](https://cognitiveclass.ai/)
+- [freecodecamp](https://www.freecodecamp.org/)
+- [Kaggle](https://www.kaggle.com/learn/overview)
+- [Great learning](https://www.greatlearning.in/)
+- [Eudonix](https://www.eduonix.com/)
+- [Data Camp](https://www.datacamp.com/)
+- [Coursera](https://www.coursera.org/)
+- [Future Learn](https://www.futurelearn.com/)
+- [edx](https://www.edx.org/)
+- [Udemy](https://www.udemy.com/)
+- [Plural sight](https://app.pluralsight.com/library/free)
+- [Skill share](https://www.skillshare.com/)
+- [Oracle Dev Gym](https://blogs.oracle.com/developers/introducing-dev-gym-free-training-on-sql-and-more)
+- [Cisco Academy](https://www.netacad.com/courses/all-courses)
+- [Java Script 30](https://javascript30.com/)
+- [HP Life](https://www.life-global.org/)
+- [Grass hopper](https://grasshopper.app/)
+- [Saylor Academy](https://www.saylor.org/)
+
+Google Digital Unlocked , Google codelabs, Google Cloud and many more, we just need to "Google"!
+To learn any language we can also look into documentation.Also many of the above websites offer free learning!
+  
 
 ## By state:
 
