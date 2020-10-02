@@ -8,6 +8,7 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
 
 **Entertainment &amp; Digital Events:**
  - [Netflix Party](https://www.netflixparty.com) - a Chrome extension for watching Netflix remotely with friends
+ - [Vemos](https://vemos.org/) - like Netflix party but supports a lot more streaming services incl. YouTube
  - [NPR Virtual Concerts list](https://www.npr.org/2020/03/17/816504058/a-list-of-live-virtual-concerts-to-watch-during-the-coronavirus-shutdown) - NPR Music compiled a list of live audio and video streams from around the world, categorized by date and genre
 - [Tech Conferences Now Free/Online Due to COVID-19](https://docs.google.com/spreadsheets/d/1IKXAcDoYnWNpuFaDYkn_aplDZ5fRI0bJNWah0rGFO5E/edit#gid=0) - Google Doc
 - [Unconference](http://sparkbox-unconference.eventbrite.com/) - a free, online conference covering accessibility, design, UX, and development topics for digital studios and teams.
@@ -21,6 +22,7 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
   - [The Coronavirus Tech Handbook](https://coronavirustechhandbook.com/) - a crowdsourced resource for technologists building things related to the coronavirus outbreak
   - [Community Tech Slack Channels](https://github.com/ladyleet/tech-community-slacks) - For those in the tech community, lists of slack channels by region.
   - [COVID-19 Facts and Symptom Tracking Sheet](Information_and_14-day_Monitoring_Sheet.pdf)
+- [WHO Coronavirus Disease Dashboard](https://covid19.who.int/)
 
 **Financial Relief Information:**
   - [Connect with your Local Healthcare Facility](https://docs.google.com/spreadsheets/d/1txEanDkIrJ5GNfSk-zlXkTlB-bQPNRN_Y69qEwmdme8/htmlview?sle=true&fbclid=IwAR1Tq-1SgN8Mn2b5FX4QAdwSV3RIIRL37zV8CKSZBaFh_25tgHcRDykolPQ) - **Where to Donate**
@@ -32,14 +34,22 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
   - [BJJ Self Training Drills](https://bjjfanatics.com/products/self-master-solo-bjj-training-drills-by-john-danaher)
   - [Core Yoga](https://www.corepoweryogaondemand.com/keep-up-your-practice)
   - [CrossFit at Home](https://www.crossfit.com/at-home)
-  - [MMAI - Daily Home Workouts](https://www.facebook.com/harrisonburgmmai/)
   - [Groker Yoga](https://grokker.com/individuals)
   - [Planet Fitness](https://www.facebook.com/planetfitness/videos/1058274961238168)
 
 ## By state:
 
+### ![Kansas State Flag](flags/kansas.gif) Kansas
+- [Healthcare Providers & Local Health Departments](https://www.coronavirus.kdheks.gov/170/Healthcare-Providers)
+- [How to Protect Yourself & Others](https://www.coronavirus.kdheks.gov/225/How-to-Protect-Yourself-Others)
+- [What to do if You Think You're Sick](https://www.coronavirus.kdheks.gov/224/What-to-do-if-you-think-youre-sick)
+- [Frequently Asked Questions](https://ks-kdhecovid19.civicplus.com/faq.aspx)
+
 ### ![Ohio State Flag](flags/ohio.gif) Ohio
 - [Stay At Home Order Frequently Asked Questions](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/stay-at-home-information/stay-at-home-order-frequently-asked-questions)
+
+### ![Oregon State Flag](flags/oregon.gif) Oregon
+- [Information about reopening phases](https://govstatus.egov.com/or-covid-19/)
 
 ### ![South Carolina State Flag](flags/south-carolina.gif) South Carolina
 - [SC COVID-19 Data](https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19) - Live updates of current confirmed cases of COVID-19 in the state of South Carolina, by county.
@@ -64,6 +74,11 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
 - [Preventing Shenandoah Valley Housing Insecurity During COVID-19](https://www.facebook.com/groups/202178274441349/) - Facebook Group
 - [Shenandoah Valley Food Security during COVID-19](https://www.facebook.com/groups/146012133427764/) - Facebook Group
 - [Rockingham County VA COVID-19 Crisis Support](https://www.facebook.com/groups/680452289365828) - Facebook Group
+
+**University Dashboards**
+- [James Madison University](https://www.jmu.edu/stop-the-spread/dashboard.shtml)
+- [Old Dominion University](https://datastudio.google.com/u/1/reporting/51c4bd62-7988-4bc9-a0b0-e19f68486cd9/page/cUufB)
+- [University of Virginia](https://returntogrounds.virginia.edu/covid-tracker)
 
 ## How to contribute
 
