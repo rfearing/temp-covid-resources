@@ -45,6 +45,11 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
 - [What to do if You Think You're Sick](https://www.coronavirus.kdheks.gov/224/What-to-do-if-you-think-youre-sick)
 - [Frequently Asked Questions](https://ks-kdhecovid19.civicplus.com/faq.aspx)
 
+### ![Michigan State Flag](flags/michigan.gif) Michigan
+- [Frequently Asked COVID-19 Questions](https://www.michigan.gov/coronavirus/0,9753,7-406-98810---,00.html?page=1&limit=25&filterCategories=&searchQuery=)
+- [Find a Test Site](https://www.michigan.gov/coronavirus/0,9753,7-406-99891_99912---,00.html)
+- [MI Safe Start Plan](https://www.michigan.gov/coronavirus/0,9753,7-406-100467---,00.html)
+
 ### ![Ohio State Flag](flags/ohio.gif) Ohio
 - [Stay At Home Order Frequently Asked Questions](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/stay-at-home-information/stay-at-home-order-frequently-asked-questions)
 
