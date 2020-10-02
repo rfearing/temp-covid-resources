@@ -8,6 +8,7 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
 
 **Entertainment &amp; Digital Events:**
  - [Netflix Party](https://www.netflixparty.com) - a Chrome extension for watching Netflix remotely with friends
+ - [Vemos](https://vemos.org/) - like Netflix party but supports a lot more streaming services incl. YouTube
  - [NPR Virtual Concerts list](https://www.npr.org/2020/03/17/816504058/a-list-of-live-virtual-concerts-to-watch-during-the-coronavirus-shutdown) - NPR Music compiled a list of live audio and video streams from around the world, categorized by date and genre
 - [Tech Conferences Now Free/Online Due to COVID-19](https://docs.google.com/spreadsheets/d/1IKXAcDoYnWNpuFaDYkn_aplDZ5fRI0bJNWah0rGFO5E/edit#gid=0) - Google Doc
 - [Unconference](http://sparkbox-unconference.eventbrite.com/) - a free, online conference covering accessibility, design, UX, and development topics for digital studios and teams.
@@ -38,13 +39,22 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
 
 ## By state:
 
-### ![Ohio State Flag](flags/ohio.gif) Ohio
-- [Stay At Home Order Frequently Asked Questions](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/stay-at-home-information/stay-at-home-order-frequently-asked-questions)
+### ![Kansas State Flag](flags/kansas.gif) Kansas
+- [Healthcare Providers & Local Health Departments](https://www.coronavirus.kdheks.gov/170/Healthcare-Providers)
+- [How to Protect Yourself & Others](https://www.coronavirus.kdheks.gov/225/How-to-Protect-Yourself-Others)
+- [What to do if You Think You're Sick](https://www.coronavirus.kdheks.gov/224/What-to-do-if-you-think-youre-sick)
+- [Frequently Asked Questions](https://ks-kdhecovid19.civicplus.com/faq.aspx)
 
 ### ![Michigan State Flag](flags/michigan.gif) Michigan
 - [Frequently Asked COVID-19 Questions](https://www.michigan.gov/coronavirus/0,9753,7-406-98810---,00.html?page=1&limit=25&filterCategories=&searchQuery=)
 - [Find a Test Site](https://www.michigan.gov/coronavirus/0,9753,7-406-99891_99912---,00.html)
 - [MI Safe Start Plan](https://www.michigan.gov/coronavirus/0,9753,7-406-100467---,00.html)
+
+### ![Ohio State Flag](flags/ohio.gif) Ohio
+- [Stay At Home Order Frequently Asked Questions](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/stay-at-home-information/stay-at-home-order-frequently-asked-questions)
+
+### ![Oregon State Flag](flags/oregon.gif) Oregon
+- [Information about reopening phases](https://govstatus.egov.com/or-covid-19/)
 
 ### ![South Carolina State Flag](flags/south-carolina.gif) South Carolina
 - [SC COVID-19 Data](https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19) - Live updates of current confirmed cases of COVID-19 in the state of South Carolina, by county.
