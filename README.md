@@ -6,14 +6,6 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
 
 ## 🇺🇲National / 🌎Global:
 
-**Entertainment &amp; Digital Events:**
- - [Netflix Party](https://www.netflixparty.com) - a Chrome extension for watching Netflix remotely with friends
- - [Vemos](https://vemos.org/) - like Netflix party but supports a lot more streaming services incl. YouTube
- - [NPR Virtual Concerts list](https://www.npr.org/2020/03/17/816504058/a-list-of-live-virtual-concerts-to-watch-during-the-coronavirus-shutdown) - NPR Music compiled a list of live audio and video streams from around the world, categorized by date and genre
-- [Tech Conferences Now Free/Online Due to COVID-19](https://docs.google.com/spreadsheets/d/1IKXAcDoYnWNpuFaDYkn_aplDZ5fRI0bJNWah0rGFO5E/edit#gid=0) - Google Doc
-- [Unconference](http://sparkbox-unconference.eventbrite.com/) - a free, online conference covering accessibility, design, UX, and development topics for digital studios and teams.
-- [Virtual Museum Tours](http://mcn.edu/a-guide-to-virtual-museum-resources/)
-
 **General Information:**
   - [cdc.gov](https://www.cdc.gov/coronavirus/2019-ncov/index.html) - <u>Information about the Coronavirus provided by the **CDC**</u>
   - [Apple Covid-19](https://apps.apple.com/us/app/apple-covid-19/id1504132184) - Apple + CDC App
@@ -30,38 +22,49 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
 - [Economic Disaster Loan Program](https://www.sba.gov/funding-programs/disaster-assistance)
 - [How to Support Immigrants In the U.S. During the Coronavirus Pandemic](https://www.teenvogue.com/story/how-help-immigrant-communities-coronavirus)
 
-**Free Home Fitness:**
+<details>
+  <summary><b>Entertainment &amp; Digital Events:</b></summary>
+
+- [Netflix Party](https://www.netflixparty.com) - a Chrome extension for watching Netflix remotely with friends
+- [Vemos](https://vemos.org/) - like Netflix party but supports a lot more streaming services incl. YouTube
+- [NPR Virtual Concerts list](https://www.npr.org/2020/03/17/816504058/a-list-of-live-virtual-concerts-to-watch-during-the-coronavirus-shutdown) - NPR Music compiled a list of live audio and video streams from around the world, categorized by date and genre
+- [Tech Conferences Now Free/Online Due to COVID-19](https://docs.google.com/spreadsheets/d/1IKXAcDoYnWNpuFaDYkn_aplDZ5fRI0bJNWah0rGFO5E/edit#gid=0) - Google Doc
+- [Unconference](http://sparkbox-unconference.eventbrite.com/) - a free, online conference covering accessibility, design, UX, and development topics for digital studios and teams.
+- [Virtual Museum Tours](http://mcn.edu/a-guide-to-virtual-museum-resources/)
+</details>
+<details>
+  <summary><b>Free Home Fitness:</b></summary>
+
   - [BJJ Self Training Drills](https://bjjfanatics.com/products/self-master-solo-bjj-training-drills-by-john-danaher)
   - [Core Yoga](https://www.corepoweryogaondemand.com/keep-up-your-practice)
   - [CrossFit at Home](https://www.crossfit.com/at-home)
   - [Groker Yoga](https://grokker.com/individuals)
   - [Planet Fitness](https://www.facebook.com/planetfitness/videos/1058274961238168)
-  
-**Here is the list of some useful websites to learn during this pandemic to upskill ourselves:**
+</details>
 
-- [Harvard](https://online-learning.harvard.edu/catalog)
-- [IBM Cognitive Class](https://cognitiveclass.ai/)
-- [freecodecamp](https://www.freecodecamp.org/)
-- [Kaggle](https://www.kaggle.com/learn/overview)
-- [Great learning](https://www.greatlearning.in/)
-- [Eudonix](https://www.eduonix.com/)
-- [Data Camp](https://www.datacamp.com/)
-- [Coursera](https://www.coursera.org/)
-- [Future Learn](https://www.futurelearn.com/)
-- [edx](https://www.edx.org/)
-- [Udemy](https://www.udemy.com/)
-- [Plural sight](https://app.pluralsight.com/library/free)
-- [Skill share](https://www.skillshare.com/)
-- [Oracle Dev Gym](https://blogs.oracle.com/developers/introducing-dev-gym-free-training-on-sql-and-more)
-- [Cisco Academy](https://www.netacad.com/courses/all-courses)
-- [Java Script 30](https://javascript30.com/)
-- [HP Life](https://www.life-global.org/)
-- [Grass hopper](https://grasshopper.app/)
-- [Saylor Academy](https://www.saylor.org/)
+<details>
+  <summary><b>Home Learning</b></summary>
 
-Google Digital Unlocked , Google codelabs, Google Cloud and many more, we just need to "Google"!
-To learn any language we can also look into documentation.Also many of the above websites offer free learning!
-  
+  - [Cisco Academy](https://www.netacad.com/courses/all-courses)
+  - [Coursera](https://www.coursera.org/)
+  - [Data Camp](https://www.datacamp.com/)
+  - [EdX](https://www.edx.org/)
+  - [Eudonix](https://www.eduonix.com/)
+  - [Freecodecamp](https://www.freecodecamp.org/)
+  - [Future Learn](https://www.futurelearn.com/)
+  - [Grass hopper](https://grasshopper.app/)
+  - [Great learning](https://www.greatlearning.in/)
+  - [Harvard](https://online-learning.harvard.edu/catalog)
+  - [HP Life](https://www.life-global.org/)
+  - [IBM Cognitive Class](https://cognitiveclass.ai/)
+  - [JavaScript 30](https://javascript30.com/)
+  - [Kaggle](https://www.kaggle.com/learn/overview)
+  - [Oracle Dev Gym](https://blogs.oracle.com/developers/introducing-dev-gym-free-training-on-sql-and-more)
+  - [Plural sight](https://app.pluralsight.com/library/free)
+  - [Skill share](https://www.skillshare.com/)
+  - [Saylor Academy](https://www.saylor.org/)
+  - [Udemy](https://www.udemy.com/)
+</details>
 
 ## By state:
 
@@ -117,7 +120,7 @@ To learn any language we can also look into documentation.Also many of the above
 1. Add your information to the appropriate state, or to "national" section
   -  If your state isn't included yet, add it in its correct alphabetical order above.
 3. [Submit a Pull Request](https://opensource.com/article/19/7/create-pull-request-github).
-1. If you are unfamiliar with git, you can email ricardo@seesparkbox.com with your information to be added.
+1. If you are unfamiliar with git, you can email ricardo@heysparkbox.com with your information to be added.
 
 **Rules**:
 <hr />
