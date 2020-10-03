@@ -69,10 +69,10 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
 ## By state:
 
 ### ![Kansas State Flag](flags/kansas.gif) Kansas
+- [Frequently Asked Questions](https://ks-kdhecovid19.civicplus.com/faq.aspx)
 - [Healthcare Providers & Local Health Departments](https://www.coronavirus.kdheks.gov/170/Healthcare-Providers)
 - [How to Protect Yourself & Others](https://www.coronavirus.kdheks.gov/225/How-to-Protect-Yourself-Others)
 - [What to do if You Think You're Sick](https://www.coronavirus.kdheks.gov/224/What-to-do-if-you-think-youre-sick)
-- [Frequently Asked Questions](https://ks-kdhecovid19.civicplus.com/faq.aspx)
 
 ### ![Michigan State Flag](flags/michigan.gif) Michigan
 - [Frequently Asked COVID-19 Questions](https://www.michigan.gov/coronavirus/0,9753,7-406-98810---,00.html?page=1&limit=25&filterCategories=&searchQuery=)
