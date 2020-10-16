@@ -7,14 +7,15 @@ You can easily contribute resources ([instructions](#how-to-contribute)), and sh
 ## 🇺🇲National / 🌎Global:
 
 **General Information:**
-  - [cdc.gov](https://www.cdc.gov/coronavirus/2019-ncov/index.html) - <u>Information about the Coronavirus provided by the **CDC**</u>
-  - [Apple Covid-19](https://apps.apple.com/us/app/apple-covid-19/id1504132184) - Apple + CDC App
-  - [Awesome Coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - Useful projects and resources for COVID-19
-  - [Coronavirus Chrome Extension](https://chrome.google.com/webstore/detail/coronavirus-tips-new-tab/konbgoghafhpdebefnmcbbmbgoakjfkp) - A chrome extension to help promote the "Do The Five" W.H.O. guidelines.
-  - [The Coronavirus Tech Handbook](https://coronavirustechhandbook.com/) - a crowdsourced resource for technologists building things related to the coronavirus outbreak
-  - [Community Tech Slack Channels](https://github.com/ladyleet/tech-community-slacks) - For those in the tech community, lists of slack channels by region.
-  - [COVID-19 Facts and Symptom Tracking Sheet](Information_and_14-day_Monitoring_Sheet.pdf)
+- [Apple Covid-19](https://apps.apple.com/us/app/apple-covid-19/id1504132184) - Apple + CDC App
+- [Awesome Coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - Useful projects and resources for COVID-19
+- [cdc.gov](https://www.cdc.gov/coronavirus/2019-ncov/index.html) - <u>Information about the Coronavirus provided by the **CDC**</u>
+- [Coronavirus Chrome Extension](https://chrome.google.com/webstore/detail/coronavirus-tips-new-tab/konbgoghafhpdebefnmcbbmbgoakjfkp) - A chrome extension to help promote the "Do The Five" W.H.O. guidelines.
+- [The Coronavirus Tech Handbook](https://coronavirustechhandbook.com/) - a crowdsourced resource for technologists building things related to the coronavirus outbreak
+- [Community Tech Slack Channels](https://github.com/ladyleet/tech-community-slacks) - For those in the tech community, lists of slack channels by region.
+- [COVID-19 Facts and Symptom Tracking Sheet](Information_and_14-day_Monitoring_Sheet.pdf)
 - [WHO Coronavirus Disease Dashboard](https://covid19.who.int/)
+- [**Vaccine Tracker**](https://www.covid-19vaccinetracker.org/) - Tracking the development of COVID-19 vaccines.
 
 **Financial Relief Information:**
   - [Connect with your Local Healthcare Facility](https://docs.google.com/spreadsheets/d/1txEanDkIrJ5GNfSk-zlXkTlB-bQPNRN_Y69qEwmdme8/htmlview?sle=true&fbclid=IwAR1Tq-1SgN8Mn2b5FX4QAdwSV3RIIRL37zV8CKSZBaFh_25tgHcRDykolPQ) - **Where to Donate**
